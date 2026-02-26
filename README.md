@@ -9,14 +9,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
 
 ## Overview
 
 ### Screenshot
 
-[Blue qr code on white background card](/Users/valeriejinchereau/Downloads/qr-code-component-main/qr-code-demo.png)
+![Blue qr code on white background card](qr-code-demo.png)
 
 ### Links
 
